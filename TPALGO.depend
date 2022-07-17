@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555155716 source:d:\tpalgos2\tpalgo\main.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+

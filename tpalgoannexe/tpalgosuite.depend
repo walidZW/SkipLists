@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555775785 source:d:\tpalgos2\tpalgosuite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylibLLC.h"
+
+1555775480 d:\tpalgos2\tpalgosuite\mylibllc.h
+
